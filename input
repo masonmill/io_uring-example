@@ -1,0 +1,5 @@
+io_uring (previously known as aioring) is a Linux kernel system call interface for storage device asynchronous I/O operations addressing performance issues with similar interfaces provided by functions like read()/write() or aio_read()/aio_write() etc. for operations on data accessed by file descriptors.
+
+Development is ongoing, worked on primarily by Jens Axboe at Meta.
+
+Source: en.wikipedia.org/wiki/io_uring
