@@ -1,10 +1,10 @@
 # io_uring-example
 
 This repository contains `io_uring-example.c`, a simple program demonstrating
-the use of io_uring to asynchronously read a file on Linux.
+the use of `io_uring` to asynchronously read a file on Linux.
 
 In this program, we leverage the liburing library to setup and teardown the 
-io_uring instance, utilizing its simplified API to prepare, submit, and 
+`io_uring` instance, utilizing its simplified API to prepare, submit, and 
 complete I/O requests.
 
 ## liburing
